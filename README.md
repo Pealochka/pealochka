@@ -7,7 +7,7 @@
   
 
 - 🌱 I’m currently learning React and NextJS  
-  
+- 🔭 I learning about trading and Economics  
 
 <br/>  
 
