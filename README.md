@@ -42,6 +42,7 @@
 
 </td><td valign="top" width="33%">
 
+<img src="https://camo.githubusercontent.com/15ea865eff0cbd8084eea33655845bdd2ad7944041b039805d29c59129d44aff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966" align="left" height="200" width="350" />  
 
 
 </td></tr></table>  
@@ -76,9 +77,7 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+
 
 <br/>  
 
