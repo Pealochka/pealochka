@@ -6,7 +6,7 @@
 ### <div align="center">I'm Vladyslav, a full-time Student at Napier University from Ukraine 👨‍💻 FrontEnd developer 🚀</div>  
   I am Ukrainian Student studying at Napier university in Edinburgh, United Kingdom. <br/> 
   Learning Front End development and want to become a full stack developer in the future. <br/> 
-  Study economics for myself, I want to pass FTMO 100k$ funded account using MT5.<br/> 
+  Study economics for myself, I want to pass FTMO 100k$ funded account using MT5.
 
 I am engaged in football
 Boxing
