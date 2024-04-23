@@ -86,7 +86,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="left" height="600" width="900" />  
+<img src="https://camo.githubusercontent.com/9a5d7f21c8f52414f924e2f06a66dbcac8dc394dcbe905ffe5cf12f0c4080b99/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966" align="left" height="300" width="300" />  
   
 
 <br/>  
