@@ -8,11 +8,11 @@
   Learning Front End development and want to become a full stack developer in the future. <br/> 
   Study economics for myself, I want to pass FTMO 100k$ funded account using MT5.
 
-I am engaged in football
-Boxing
-Gym
-I like to read 
-I like to play computer games
+- I am engaged in football
+- Boxing
+- Gym
+- I like to read 
+- I like to play computer games
   
 
 - 🌱 I’m currently learning React and NextJS  
